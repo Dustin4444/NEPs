@@ -4752,13 +4752,12 @@ github-slugger@^1.5.0:
   resolved "https://registry.yarnpkg.com/github-slugger/-/github-slugger-1.5.0.tgz#17891bbc73232051474d68bd867a34625c955f7d"
   integrity sha512-wIh+gKBI9Nshz2o46B0B3f5k/W+WI9ZAv6y5Dn5WJ5SK1t0TnDimB4WE5rmTD05ZAIn8HALCZVmCsvj0w0v0lw==
 
-gleap@^14.2.7:
-  version "14.2.12"
-  resolved "https://registry.yarnpkg.com/gleap/-/gleap-14.2.12.tgz#3f13e6760957b1dbafd98c6d23d6c3e40d4c8a53"
-  integrity sha512-h15Fu5MOfphM7p4ivhB4AelazObcVxKM7RmQzwzSvbT3TOEE7MFZ7aKLHbWqGLwWqx+ABsWq/6qTOfBauD1Ecg==
+gleap@^14.5.6:
+  version "14.6.4"
+  resolved "https://registry.yarnpkg.com/gleap/-/gleap-14.6.4.tgz#9cdb9cecda94f548222bef679f63d425ed08a719"
+  integrity sha512-Ii6p8SDPV3POZQ0uakq0x0LZvIZ0JMFLowRQRSLnpL0UrjFK9zvfKnfWCnwIXphZMItp5qykxMBKr/lhsdjW4w==
   dependencies:
     "@floating-ui/dom" "^1.6.3"
-    pick-dom-element "^0.2.3"
     unique-selector "^0.5.0"
 
 glob-parent@^5.1.2, glob-parent@~5.1.2:
@@ -7062,11 +7061,6 @@ path-type@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/path-type/-/path-type-4.0.0.tgz#84ed01c0a7ba380afe09d90a8c180dcd9d03043b"
   integrity sha512-gDKb8aZMDeD/tZWs9P6+q0J9Mwkdl6xMV8TjnGP3qJVJ06bdMgkbBlLU8IdfOsIsFz2BW1rNVT3XuNEl8zPAvw==
-
-pick-dom-element@^0.2.3:
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/pick-dom-element/-/pick-dom-element-0.2.3.tgz#5754e686d2533cc94e75b27734475625d8c745b0"
-  integrity sha512-XBwCZMMnmZAU68lvizuAluOBpImiE3sgXEbrMjBBJ/SjUiHTeep38oiBL8wWMy9ZXxNk6JvmYRUmGiZnCOvUFw==
 
 picocolors@^1.0.0, picocolors@^1.1.1:
   version "1.1.1"
